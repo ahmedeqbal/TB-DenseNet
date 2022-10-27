@@ -69,7 +69,7 @@ def df_block(x, filters, compression=0.5, drop_out=0.0):
 
     return add([x4, x5])
 
-def TB_DenseNet(input_shape=(IMAGE_SIZE, IMAGE_SIZE, 3), filters=16, compression=0.5, drop_out=0, half_net=False, attention_gates=True):
+def TB_UNet(input_shape=(IMAGE_SIZE, IMAGE_SIZE, 3), filters=16, compression=0.5, drop_out=0, half_net=False, attention_gates=True):
 
     inputShape = Input(input_shape)
 
@@ -167,6 +167,6 @@ def TB_DenseNet(input_shape=(IMAGE_SIZE, IMAGE_SIZE, 3), filters=16, compression
 
 if __name__ == "__main__":
   
-  model = TB_DenseNet(attention_gates=attention_gates)
+  model = TB_UNet(attention_gates=attention_gates)
   
   model.summary()
