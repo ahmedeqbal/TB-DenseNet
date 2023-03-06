@@ -1,6 +1,6 @@
 This repository contains the original implementation of "**[Tuberculosis chest X-ray detection using CNN-based hybrid segmentation and classification approach](https://doi.org/10.1016/j.bspc.2023.104667)**" in Keras (Tensorflow as backend). This paper has been published in "*Biomedical Signal Processing and Control - Elsevier, IF:5.076*"
 
-## Proposed Architecture:
+## Proposed Architecture
 <img src="images/Fig. 2.png">
 
 ## TB-UNet:
@@ -12,7 +12,7 @@ This repository contains the original implementation of "**[Tuberculosis chest X
 ## Grad-CAM:
 <img src="images/Fig. 13.png">
 
-## Web-based Prototype:
+## Web-based Prototype
 <img src="images/Fig. 14.png">
 A real-time demo of the Tuberculosis detection app has been uploaded to YouTube: https://youtu.be/jv3N5F91LbI
 
