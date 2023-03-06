@@ -14,7 +14,7 @@ This repository contains the original implementation of "**[Tuberculosis chest X
 
 ## Web-based Prototype:
 <img src="images/Fig. 14.png">
-A real-time demo of the Tuberculosis detection app has been uploaded to [**YouTube**](https://youtu.be/jv3N5F91LbI)
+A real-time demo of the Tuberculosis detection app has been uploaded to [** YouTube **] (https://youtu.be/jv3N5F91LbI)
 
 ## Requirements
 
