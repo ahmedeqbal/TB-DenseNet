@@ -29,4 +29,4 @@ A real-time demo of the Tuberculosis detection app has been uploaded to YouTube:
 
 If you use TB-UNet or TB-DenseNet in your project, please cite the following paper:
 ```
-Ahmed Iqbal, Muhammad Usman, Zohair Ahmed (2023). Tuberculosis chest X-ray detection using CNN-based hybrid segmentation and classification approach. Biomedical Signal Processing and Control, Volume 84, July 2023, 104667. DOI: https://doi.org/10.1016/j.bspc.2023.104667
+Iqbal, A., Usman, M., & Ahmed, Z. (2023). Tuberculosis chest X-ray detection using CNN-based hybrid segmentation and classification approach. Biomedical Signal Processing and Control, Volume 84, July 2023, 104667. DOI: https://doi.org/10.1016/j.bspc.2023.104667
